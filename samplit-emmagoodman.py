@@ -1,6 +1,8 @@
 import sys
 import random
 
+#adding things so things are different
+
 filename = sys.argv[1]
 writefile=open("samplit-emmagoodman.txt","a")
 with open(filename) as file:
